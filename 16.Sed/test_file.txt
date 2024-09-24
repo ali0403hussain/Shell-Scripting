@@ -1,0 +1,3 @@
+Hello. This is bash script which helps to use sed
+This is line 2.
+I love Programming bash script.
